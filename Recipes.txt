@@ -3,6 +3,10 @@ Welcome to my Kitchen
 Kheer 
 Pasta
 Chicken fry
+beans
+pizza
 
 
-      Thank you,
+      Thank you
+      final
+      done
